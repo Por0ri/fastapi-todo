@@ -1,0 +1,8 @@
+# 이미지에 넣지 않을 것
+venv/
+.venv/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+client.py
